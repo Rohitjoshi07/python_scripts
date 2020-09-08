@@ -1,1 +1,6 @@
-
+you need to enable SMTP access to your google account for this feature.
+1. If 2 step verification is on then please follow 
+    https://support.google.com/accounts/answer/185833?hl=en
+2. if 2 step verification is off:
+    Then please allow access to less secure apps from google account settings.
+Thank You
